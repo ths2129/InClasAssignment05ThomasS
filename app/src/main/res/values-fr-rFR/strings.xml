@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Launcher</string>
+    <string name="testing">Essasi</string>
+    <string name="Camera">le lancement de la camera</string>
+    <string name="Activity">le lancement de la activite</string>
+    <string name="Send">envoyer le message</string>
+    <string name="title">envoyer uniquement le titre</string>
+    <string name="welcome">Bienvenue!!!!</string>
+</resources>
